@@ -2,3 +2,7 @@
 dddsample.iml
 .idea
 target
+.gradle
+build
+.mvn
+gradle
